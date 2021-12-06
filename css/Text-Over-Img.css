@@ -1,0 +1,23 @@
+.thumbnail { 
+    position: relative; 
+    size-adjust: 100%;
+    display: flex;
+   } 
+ .caption { 
+    position: absolute; 
+    top: 45%; 
+    left: 0; 
+    width: 100%;
+    
+   } 
+.img-responsive{
+  width: 100%;
+  
+};
+.div-img{
+  width: 500px;
+  height: 500px;
+};
+
+
+
